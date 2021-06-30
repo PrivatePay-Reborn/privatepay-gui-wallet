@@ -1,0 +1,3 @@
+[submodule "privatepay-webwallet"]
+	path = privatepay-webwallet
+	url = https://github.com/privatepay-reborn/privatepay-webwallet
